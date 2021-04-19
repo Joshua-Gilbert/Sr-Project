@@ -1,6 +1,7 @@
-This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. The Cheap, Easy, and Mobile Raspberry Pi Hacker![image](https://user-images.githubusercontent.com/54961082/115305020-8a831480-a11a-11eb-9abe-e315fa186956.png)
+## The Repository's Purpose
+This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. Our project went through varius names, but ultimately the name landed upon is "The Cheap, Easy, and Mobile Raspberry Pi Hacker!"
 
-# Our Project's Purpose
+## Our Project's Purpose
 
 It’s perhaps the most cliché thing to say regarding computers, but we really do live in a digital age. You could traverse to a poor and remote developing country, be forced to barter for a camel (as it’s the only means of transportation available to you), and foolishly ride it out into the middle of a desperately hot and never-ending desert, surrounded by nothing but an ocean of sand. Even in this hellish landscape, if you happened to be fortunate enough to run into someone…there is a reasonable chance they’ll a cell phone. No matter where you go in the world, you’re surrounded by digital information. Not just your neighbor’s information, but your information too. 
 
