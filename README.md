@@ -21,4 +21,5 @@ Doing something such as showing how easily almost anyone can become a digital th
 ### Those Involved:
 **Team Members:** Mitchell "Mitch" Wommack, Jason Nguyen, Joshua Gilbert, & Gary Choi<br />
 **Faculty Professor:** Dr.Harold Nelson<br />
-**Sponsor:** Peter Truax
+**Sponsor:** Peter Truax<br />
+![Logo_St Martins](https://user-images.githubusercontent.com/54961082/115460141-bf57a000-a1dc-11eb-85ab-c5b792e58518.png)
