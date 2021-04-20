@@ -1,4 +1,5 @@
 ![Kali-Linux-on-Raspberri-Pi-4](https://user-images.githubusercontent.com/54961082/115456059-97b20900-a1d7-11eb-9788-847fb2931ae5.png)
+
 ## 
 ### This Repository's Purpose
 This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. Our project went through varius names, but ultimately the name landed upon is "The Cheap, Easy, and Mobile Raspberry Pi Hacker!"<br />
@@ -22,5 +23,4 @@ Doing something such as showing how easily almost anyone can become a digital th
 **Team Members:** Mitchell "Mitch" Wommack, Jason Nguyen, Joshua Gilbert, & Gary Choi<br />
 **Faculty Professor:** Dr.Harold Nelson<br />
 **Sponsor:** Peter Truax<br />
-![Saint Martin's University_200px](https://user-images.githubusercontent.com/54961082/115460640-5cb2d400-a1dd-11eb-9139-a27d8c635d85.png)
 
