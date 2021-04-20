@@ -1,3 +1,4 @@
+![Kali-Linux-on-Raspberri-Pi-4](https://user-images.githubusercontent.com/54961082/115456059-97b20900-a1d7-11eb-9788-847fb2931ae5.png)
 ## This Repository's Purpose
 This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. Our project went through varius names, but ultimately the name landed upon is "The Cheap, Easy, and Mobile Raspberry Pi Hacker!"
 
