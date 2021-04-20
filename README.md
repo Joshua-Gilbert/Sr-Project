@@ -2,16 +2,17 @@
 ## 
 ### This Repository's Purpose
 This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. Our project went through varius names, but ultimately the name landed upon is "The Cheap, Easy, and Mobile Raspberry Pi Hacker!"<br />
-##
+## 
 ### Our Project: The Cheap, Easy, and Mobile Raspberry Pi Hacker!
 
 It’s perhaps the most cliché thing to say regarding computers, but we really do live in a digital age. You could traverse to a poor and remote developing country, be forced to barter for a camel (as it’s the only means of transportation available to you), and foolishly ride it out into the middle of a desperately hot and never-ending desert, surrounded by nothing but an ocean of sand. Even in this hellish landscape, if you happened to be fortunate enough to run into someone…there is a reasonable chance they’ll a cell phone. No matter where you go in the world, you’re surrounded by digital information. Not just your neighbor’s information, but your information too.<br /> 
 
-We’re in this weird loop:<br />
-	Technology becomes cheaper and more convenient -><br />
-		  People don’t understand the basics of the technology, but they still buy and use it -><br />	  
-			People become more vulnerable thanks to the technology -><br />	  
-				Technology becomes cheaper and more convenient -> …<br />
+We’re in this weird loop:
+
+	Technology becomes cheaper and more convenient ->
+		  People don’t understand the basics of the technology, but they still buy and use it ->
+			People become more vulnerable thanks to the technology ->
+				Technology becomes cheaper and more convenient -> …
 		
 We’re going to show this loop by taking a very small and very cheap computer, known as a Raspberry Pi, and use it to interfere, manipulate, attack, and basically just wreak havoc against other systems. To further showcase how vulnerable the average person is to such transgressions, we will do so by utilizing and documenting information and instructions that can be found online by anyone with an internet connection. That, combined with the size and affordability of the Pi, will illustrate just how easily anyone can become a digital terrorist.<br />
 
