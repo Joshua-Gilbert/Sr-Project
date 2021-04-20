@@ -8,11 +8,8 @@ It’s perhaps the most cliché thing to say regarding computers, but we really 
 We’re in this weird loop:
 
 Technology becomes cheaper and more convenient -> 
-
-	  People don’t understand the basics of the technology, but they still buy and use it -> 
-	  
-		  People become more vulnerable thanks to the technology ->
-		  
+	  People don’t understand the basics of the technology, but they still buy and use it ->	  
+		  People become more vulnerable thanks to the technology ->		  
 			  Technology becomes cheaper and more convenient…
 		
 We’re going to show this loop by taking a very small and very cheap computer, known as a Raspberry Pi, and use it to interfere, manipulate, attack, and basically just wreak havoc against other systems. To further showcase how vulnerable the average person is to such transgressions, we will do so by utilizing and documenting information and instructions that can be found online by anyone with an internet connection. That, combined with the size and affordability of the Pi, will illustrate just how easily anyone can become a digital terrorist.
