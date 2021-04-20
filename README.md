@@ -1,4 +1,4 @@
-## The Repository's Purpose
+## This Repository's Purpose
 This repository is part of our Saint Martin's University 2021 Computer Science Senior Project. It is strictly meant to be used for academic purposes. Our project went through varius names, but ultimately the name landed upon is "The Cheap, Easy, and Mobile Raspberry Pi Hacker!"
 
 ## Our Project's Purpose
