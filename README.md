@@ -15,4 +15,8 @@ We’re in this weird loop:
 		
 We’re going to show this loop by taking a very small and very cheap computer, known as a Raspberry Pi, and use it to interfere, manipulate, attack, and basically just wreak havoc against other systems. To further showcase how vulnerable the average person is to such transgressions, we will do so by utilizing and documenting information and instructions that can be found online by anyone with an internet connection. That, combined with the size and affordability of the Pi, will illustrate just how easily anyone can become a digital terrorist.
 
-Doing something such as showing how easily almost anyone can become a digital threat might not seem like a great idea at first. However, in the actions of doing so, we’re also going to show how the average person can protect themselves from such actions. After all, the best way to protect yourself in a fight is to first learn how to fight. 
+Doing something such as showing how easily almost anyone can become a digital threat might not seem like a great idea at first. However, in the actions of doing so, we’re also going to show how the average person can protect themselves from such actions. After all, the best way to protect yourself in a fight is to first learn how to fight.
+## Those Involved:
+Team Members: Mitchell "Mitch" Wommack, Jason Nguyen, Joshua Gilbert, and Gary Choi
+Faculty Professor: Dr.Harold Nelson
+Sponsor: Peter Truax
