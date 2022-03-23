@@ -1,4 +1,6 @@
-![Kali-Linux-on-Raspberri-Pi-4](https://user-images.githubusercontent.com/54961082/115456059-97b20900-a1d7-11eb-9788-847fb2931ae5.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54961082/115456059-97b20900-a1d7-11eb-9788-847fb2931ae5.png"/>
+</p>
 
 ## 
 ### This Repository's Purpose
